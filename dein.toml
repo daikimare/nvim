@@ -1,0 +1,18 @@
+[[plugins]]
+repo = 'junepunn/fzf'
+build_on = '''
+./install -all
+'''
+
+[[plugins]]
+repo = 'junegunn/fzf.vim'
+
+[[plugins]]
+repo = 'previm/previm' 
+
+[[plugins]]
+repo = 'skanehira/docker.vim'
+
+[[plugins]]
+repo = 'preservim/nerdtree'
+
